@@ -2,7 +2,7 @@
 
 ## Vision
 
-This product is an AI-driven project execution platform for Agile teams that transforms natural language into structured work and automates the coordination layer of software development. It removes the need for manual task management, fragmented tool switching, and repetitive reporting by turning communication directly into actionable workflows.
+This product is an AI-driven project execution platform for Agile teams that transforms natural language into structured work and automates the coordination layer of software development. It removes the need for manual task management, fragmented tool switching, and repetitive reporting by turning communication directly into actionable workflows. This agent will also write down stand up meetings discussed information.
 
 Planning, tracking, and reporting are continuously automated and synchronized with actual engineering activity.
 
